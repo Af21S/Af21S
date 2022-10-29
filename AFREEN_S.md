@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Coding and Sql
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me afreensyed862@gmail.com
 
 <!---
 Af21S/Af21S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
